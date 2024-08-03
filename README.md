@@ -1,6 +1,6 @@
 ### Hi there, I'm Vitor Moreira! 👾
 
-👨‍💻 I'm a developer, working at the CX area in a Software Development Company
+👨‍💻 I'm a developer, working at the Data Analysis/Developing area in a Medicinal Cannabis company
 
 🎓 Graduating in System Analysis and Development at Universidade Municipal de São Caetano do Sul (USCS) and studying Software Engineering
 
